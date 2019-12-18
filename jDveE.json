@@ -1,0 +1,9 @@
+{
+  "php7" : "php",
+  "php5" : "C:\\xampp\\php\\php.exe",
+  "apache5" : "C:\\xampp\\apache\\bin\\httpd.exe",
+  "apache7" : "C:\\xampp2\\apache\\bin\\httpd.exe",
+  "live-server" : "live-server",
+  "browser" : "start http://localhost",
+  "OS" : "win"
+}

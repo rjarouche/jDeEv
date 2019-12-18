@@ -1,0 +1,2 @@
+<?php
+$colors = new Colors()
