@@ -35,7 +35,7 @@ endif;
 
 // windows commands
 if ($configs->OS == 'win'):
-    $start = 'start ""';
+    $start = 'start /MIN ""';
     $_1 = ["{$start} {$configs->apache5}",  "{$start} {$configs->browser}"];
     $_2 = ["{$start} {$configs->apache7}",  "{$start} {$configs->browser}"];
     $_3 = ["{$start} {$configs->{'live-server'}}",
