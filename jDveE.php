@@ -135,6 +135,7 @@ EOL;
             $i++;
         endforeach;
     endforeach;
+    textSucess("Type your option: ");
     return readln();
 
 };
